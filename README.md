@@ -44,6 +44,26 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     f. [Touch input ??? (Сенсорный ввод)](#Touch-input)
 
     g. [Hall sensor](#Hall-sensor)
+    
+3. [Console](#Console)
+
+    a. [Output of variables](#Output-of-variables)
+    
+    b. [i2c scanning](#i2c-scanning)
+    
+    + [Additional console functions](#Additional-console-functions)
+    
+        c. [Pin output](#Pin-output)
+        
+        d. [Output of i2c addresses](#Output-of-i2c-addresses)
+        
+        e. [Output of line](#Output-of-line)
+        
+        f. [Text output](#Text-output)
+        
+        g. [Output of controller options](#Output-of-controller-options)
+        
+        h. [Output of console settings](#Output-of-console-settings)
 
 
 ## Processes and tasks

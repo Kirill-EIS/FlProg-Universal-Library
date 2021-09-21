@@ -41,7 +41,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 
     e. [Analog input](#Analog-input)
 
-    f. [Touch input ??? (Сенсорный ввод)](#Touch-input)
+    f. [??? Touch input (Сенсорный ввод)](#Touch-input)
 
     g. [Hall sensor](#Hall-sensor)
     
@@ -91,11 +91,39 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     b. [MCP23x17](#MCP23x17)
     
-    c. 
+    c. [PCA9685](#PCA9685)
+    
+    d. [TLC594](#TLC594)
+    
+7. [Debug options](#Debug-options)
 
-## Processes and tasks
+    a. [Debug  pins](#Debug-pins)
+    
+    b. [Debug i2c addresses](#Debug-i2c-addresses)
+    
+    c. [Debug settings](#Debug-settings)
+    
+8. [User options](#User-options)
 
-### Task manager
+    a. [Custom pins](#Custom-pins)
+    
+    b. [Terminal options](#Terminal-options)
+    
+    c. [Choosing an architecture](#Choosing-an-architecture)
+    
+    d. [Selection of boards and devices](#Selection-of-boards-and-devices)
+    
+9. [Settings of parameters and devices](#Settings-of-parameters-and-devices)
 
-____
+    a. [Configuring i2c](#Configuring-i2c)
+    
+    b. [configuring SPI](#Configuring-SPI)
+    
+10. [Nextion display](#Nextion-display)
+
+    a. [Initialization](#)
+    
+    b. [Otput of a variable](#)
+    
+    c. [Getting variables](#)
 

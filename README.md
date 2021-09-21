@@ -17,11 +17,13 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 
     a. [Task manager](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Task-manager)
 
-    b. [Multifunctional generator](#Multifunctional-generator)
+    b. [Multifunctional generator](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Multifunctional-generator)
     
-    c. [Counters](#Counters)
+    c. [Counters](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Counters)
 
-    d. [Decoder](#Decoder)
+    d. [Decoder](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Decoder)
+    
+    =====
 
     e. [Pulse fronts](#Pulse-fronts)
 

@@ -15,7 +15,6 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 ## Contents
 
 1. [Processes and tasks](#Processes-and-tasks) 
-
     a. [Task manager](#Task-manager)
 
 ____

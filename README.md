@@ -30,6 +30,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     g. [Bitwise conversions](#Bitwise-conversions)
 
 2. [Pins](#Pins)
+
     a. [Discrete output](#Discrete-output)
 
     b. [PMW output](#PMW-output)

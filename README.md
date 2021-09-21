@@ -14,9 +14,23 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 ## Contents
 
 1. [Processes and tasks](#Processes-and-tasks) 
-2. 123
- 
+
     a. [Task manager](#Task-manager)
+    b. [Multifunctional generator](#Multifunctional-generator)
+    c. [Counters](#Counters)
+    d. [Decoder](#Decoder)
+    e. [Pulse fronts](#Pulse-fronts)
+    f. [Float Conversion](#Float-Conversion)
+    g. [Bitwise conversions](#Bitwise-conversions)
+
+2. [Pins](#Pins)
+    a. [Discrete output](#Discrete-output)
+    b. [PMW output](#PMW-output)
+    c. [Analog output](#Analog-output)
+    d. [Discrete input](#Discrete-input)
+    e. [Analog input](#Analog input)
+    f. [Touch input???(Сенсорный ввод)](#Touch-input)
+    g. [Hall sensor](#Hall-sensor)
 
 
 ## Processes and tasks

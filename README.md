@@ -51,7 +51,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     b. [i2c scanning](#i2c-scanning)
     
-    + [Additional console functions](#Additional-console-functions)
+   + [Additional console functions](#Additional-console-functions)
     
         c. [Pin output](#Pin-output)
         

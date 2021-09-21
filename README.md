@@ -10,4 +10,4 @@ RT_00_HW_BASE_v.*** file for Arduino
 
 EIS.01.SYSTEM ver.*** file for FlProg
 
-__Unfortunately, at the moment the blocks are only available in Russian, but work is underway on their translation.__
+_Unfortunately, at the moment the blocks are only available in Russian, but work is underway on their translation._

@@ -13,7 +13,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 
 ## List of available blocks
 
-1. [Processes and tasks](#Processes-and-tasks)
+1. Processes and tasks
 
     a. [Task manager](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Task-manager)
 
@@ -29,7 +29,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 
     g. [Bitwise conversions](#Bitwise-conversions)
 
-2. [Pins](#Pins)
+2. Pins
 
     a. [Discrete output](#Discrete-output)
 
@@ -45,13 +45,13 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 
     g. [Hall sensor](#Hall-sensor)
     
-3. [Console](#Console)
+3. Console
 
     a. [Output of variables](#Output-of-variables)
     
     b. [i2c scanning](#i2c-scanning)
     
-   + [Additional console functions](#Additional-console-functions)
+   + Additional console functions
     
         c. [Pin output](#Pin-output)
         
@@ -65,13 +65,13 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
         
         h. [Output of console settings](#Output-of-console-settings)
 
-4. [HD44780 display](#HD44780-display)
+4. HD44780 display
 
     a. [Setting up HD44780](#Setting-up-HD44780)
     
     b. [Output to HD44780](#Output-to-HD44780)
     
-5. [Sensors](#Sensors)
+5. Sensors
 
     a. [DHT22](#DHT22)
     
@@ -85,7 +85,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     f. [MAX6675](#MAX6675)
     
-6. [Extension registers](#Extension-registers)
+6. Extension registers
 
     a. [74HC595](#74HC595)
     
@@ -95,7 +95,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     d. [TLC594](#TLC594)
     
-7. [Debug options](#Debug-options)
+7. Debug options
 
     a. [Debug  pins](#Debug-pins)
     
@@ -103,7 +103,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     c. [Debug settings](#Debug-settings)
     
-8. [User options](#User-options)
+8. User options
 
     a. [Custom pins](#Custom-pins)
     
@@ -113,13 +113,13 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
     d. [Selection of boards and devices](#Selection-of-boards-and-devices)
     
-9. [Settings of parameters and devices](#Settings-of-parameters-and-devices)
+9. Settings of parameters and devices
 
     a. [Configuring i2c](#Configuring-i2c)
     
     b. [configuring SPI](#Configuring-SPI)
     
-10. [Nextion display](#Nextion-display)
+10. Nextion display
 
     a. [Initialization](#)
     

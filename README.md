@@ -18,7 +18,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     a. [Task manager](#Task-manager)
 
     b. [Multifunctional generator](#Multifunctional-generator)
-
+    
     c. [Counters](#Counters)
 
     d. [Decoder](#Decoder)

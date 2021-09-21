@@ -90,6 +90,8 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     a. [74HC595](#74HC595)
     
     b. [MCP23x17](#MCP23x17)
+    
+    c. 
 
 ## Processes and tasks
 

@@ -11,7 +11,7 @@ EIS.01.SYSTEM ver.*** file for FlProg
 
 _Unfortunately, at the moment the blocks are only available in Russian, but work is underway on other translation._
 
-## Contents
+## List of available blocks
 
 1. [Processes and tasks](#Processes-and-tasks)
 
@@ -65,6 +65,31 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
         
         h. [Output of console settings](#Output-of-console-settings)
 
+4. [HD44780 display](#HD44780-display)
+
+    a. [Setting up HD44780](#Setting-up-HD44780)
+    
+    b. [Output to HD44780](#Output-to-HD44780)
+    
+5. [Sensors](#Sensors)
+
+    a. [DHT22](#DHT22)
+    
+    b. [DS1820](#DS1820)
+    
+    c. [HC-SR04](#HC-SR04)
+    
+    d. [HTU21](#HTU21)
+    
+    e. [BME280](#BME280)
+    
+    f. [MAX6675](#MAX6675)
+    
+6. [Extension registers](#Extension-registers)
+
+    a. [74HC595](#74HC595)
+    
+    b. [MCP23x17](#MCP23x17)
 
 ## Processes and tasks
 

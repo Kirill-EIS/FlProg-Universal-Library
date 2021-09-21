@@ -17,7 +17,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
 2. 123
     a. [Task manager](#Task-manager)
 
-____
+
 ## Processes and tasks
 
 ### Task manager

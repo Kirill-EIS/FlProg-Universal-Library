@@ -105,7 +105,7 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
 8. User options
 
-    a. [Custom pins](#Custom-pins)
+    a. [Custom pins](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Custom-pins)
     
     b. [Terminal options](#Terminal-options)
     

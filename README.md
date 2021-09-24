@@ -22,56 +22,54 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     c. [Counters](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Counters)
 
     d. [Decoder](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Decoder)
-    
-    =====
 
-    e. [Pulse fronts](#Pulse-fronts)
+    e. [Pulse fronts](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Pulse-fronts)
 
-    f. [Float Conversion](#Float-Conversion)
+    f. [Float Conversion](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Float-Conversion)
 
-    g. [Bitwise conversions](#Bitwise-conversions)
+    g. [Bitwise conversions](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Bitwise-conversions)
 
 2. Pins
 
-    a. [Discrete output](#Discrete-output)
+    a. [Discrete output](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Discrete-output)
 
-    b. [PMW output](#PMW-output)
+    b. [PMW output](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/PMW-output)
 
-    c. [Analog output](#Analog-output)
+    c. [Analog output](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Analog-output)
 
-    d. [Discrete input](#Discrete-input)
+    d. [Discrete input](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Discrete-input)
 
-    e. [Analog input](#Analog-input)
+    e. [Analog input](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Analog-input)
 
-    f. [??? Touch input (Сенсорный ввод)](#Touch-input)
+    f. [??? Touch input (Сенсорный ввод)](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Touch-input)
 
-    g. [Hall sensor](#Hall-sensor)
+    g. [Hall sensor](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Hall-sensor)
     
 3. Console
 
-    a. [Output of variables](#Output-of-variables)
+    a. [Output of variables](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-of-variables)
     
-    b. [i2c scanning](#i2c-scanning)
+    b. [i2c scanning](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/i2c-scanning)
     
    + Additional console functions
     
-        c. [Pin output](#Pin-output)
+        c. [Pin output](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Pin-output)
         
-        d. [Output of i2c addresses](#Output-of-i2c-addresses)
+        d. [Output of i2c addresses](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-of-i2c-addresses)
         
-        e. [Output of line](#Output-of-line)
+        e. [Output of line](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-of-line)
         
-        f. [Text output](#Text-output)
+        f. [Text output](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Text-output)
         
-        g. [Output of controller options](#Output-of-controller-options)
+        g. [Output of controller options](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-of-controller-options)
         
-        h. [Output of console settings](#Output-of-console-settings)
+        h. [Output of console settings](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-of-console-settings)
 
 4. HD44780 display
 
-    a. [Setting up HD44780](#Setting-up-HD44780)
+    a. [Setting up HD44780](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Setting-up-HD44780)
     
-    b. [Output to HD44780](#Output-to-HD44780)
+    b. [Output to HD44780](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Output-to-HD44780)
     
 5. Sensors
 

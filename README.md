@@ -73,35 +73,35 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
 5. Sensors
 
-    a. [DHT22](#DHT22)
+    a. [DHT22](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/DHT22)
     
-    b. [DS1820](#DS1820)
+    b. [DS1820](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/DS1820)
     
-    c. [HC-SR04](#HC-SR04)
+    c. [HC-SR04](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/HC-SR04)
     
-    d. [HTU21](#HTU21)
+    d. [HTU21](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/HTU21)
     
-    e. [BME280](#BME280)
+    e. [BME280](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/BME280)
     
-    f. [MAX6675](#MAX6675)
+    f. [MAX6675](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/MAX6675)
     
 6. Extension registers
 
-    a. [74HC595](#74HC595)
+    a. [74HC595](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/74HC595)
     
-    b. [MCP23x17](#MCP23x17)
+    b. [MCP23x17](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/MCP23x17)
     
-    c. [PCA9685](#PCA9685)
+    c. [PCA9685](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/IN-DEVELOPMENT)
     
-    d. [TLC594](#TLC594)
+    d. [TLC594](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/IN-DEVELOPMENT)
     
 7. Debug options
 
-    a. [Debug  pins](#Debug-pins)
+    a. [Debug pins](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Debug-pins)
     
-    b. [Debug i2c addresses](#Debug-i2c-addresses)
+    b. [Debug i2c addresses](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Debug-i2c-addresses)
     
-    c. [Debug settings](#Debug-settings)
+    c. [Debug settings](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Debug-settings)
     
 8. User options
 

@@ -9,6 +9,9 @@ RT_00_HW_BASE_v.*** file for Arduino
 
 EIS.01.SYSTEM ver.*** file for FlProg
 
+[How to add our blocks in FlProg](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/How-to-add-our-library-in-FlProg)
+[How to add our libraries in Arduino IDE](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/How-to-add-our-libraries-in-Arduino-IDE)
+
 _Unfortunately, at the moment the blocks are only available in Russian, but work is underway on other translation._
 
 ## List of available blocks

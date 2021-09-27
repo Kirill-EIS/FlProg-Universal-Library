@@ -119,13 +119,13 @@ _Unfortunately, at the moment the blocks are only available in Russian, but work
     
 9. Settings of parameters and devices
 
-    a. [Configuring i2c](#Configuring-i2c)
+    a. [Configuring i2c](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Configuring-i2)
     
     b. [configuring SPI](#Configuring-SPI)
     
 10. Nextion display
 
-    a. [Initialization](#)
+    a. [Initialization](https://github.com/Kirill-EIS/FlProg-Universal-Library/wiki/Initialization-of-the--Nextion-display)
     
     b. [Otput of a variable](#)
     
